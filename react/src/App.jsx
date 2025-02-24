@@ -9,6 +9,10 @@ function App() {
   return (
     <>
       <h1>Sharini</h1>
+
+      <h1>Rekhansika Goluguri</h1>
+      <h1>Rohitha Gannamaneedi</h1>
+
       
     </>
   )
